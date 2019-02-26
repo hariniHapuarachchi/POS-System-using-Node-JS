@@ -13,7 +13,11 @@
 	</ul>
 </div>
 
-![Image of Yaktocat](images/posMain1.jpg)				
+![Image of Yaktocat](images/Capture.jpeg)
+
+![Image of Yaktocat](images/1.jpeg)
+
+![Image of Yaktocat](images/2.jpeg)				
 
 
 
